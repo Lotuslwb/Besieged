@@ -1,6 +1,6 @@
 {
   "name": "wb-besieged",
-  "version": "0.0.6",
+  "version": "0.0.9",
   "description": "前端性能订制 检测",
   "main": "main.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "bin": {
     "bes": "bin/bes.js"
   },
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^1.1.3",
     "commander": "^2.9.0",
     "fs-extra": "^0.30.0",

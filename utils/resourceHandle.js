@@ -118,7 +118,7 @@ function showInfo(obj) {
     checklog(obj.singleImg.length > cl.imgNumber, '首屏图片个数不大于' + cl.imgNumber + '个:现在为:' + obj.singleImg.length + '个');
 
     checklog(obj.cssNumber * 1 > cl.cssNumber * 1, 'css请求数不大于' + cl.cssNumber + ':现在cssNumber为' + obj.cssNumber);
-    checklog(obj.jsNumber * 1 > cl.jsNumber * 1, 'js请求数不大于' + cl.cssNumber + ':现在jsNumber为' + obj.cssNumber);
+    checklog(obj.jsNumber * 1 > cl.jsNumber * 1, 'js请求数不大于' + cl.jsNumber + ':现在jsNumber为' + obj.jsNumber);
 
 
     if (cl._30xRequest) {
