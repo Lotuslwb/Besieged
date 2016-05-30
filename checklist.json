@@ -1,0 +1,13 @@
+{
+  "totalSize": 250,
+  "loadTime": 3000,
+  "_30xRequest": true,
+  "_40xRequest": true,
+  "_50xRequest": true,
+  "jsNumber": 3,
+  "cssNumber": 3,
+  "totalSize": 250,
+  "singleImgSize": 50,
+  "imgNumber": 15,
+  "gifImgCheck": true
+}

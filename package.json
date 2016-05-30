@@ -1,0 +1,35 @@
+{
+  "name": "wb-besieged",
+  "version": "0.0.1",
+  "description": "前端性能订制 检测",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lotuslwb/Besieged.git"
+  },
+  "keywords": [
+    "前端性能",
+    "检测"
+  ],
+  "author": "lotuslwb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lotuslwb/Besieged/issues"
+  },
+  "homepage": "https://github.com/Lotuslwb/Besieged#readme",
+  "bin": {
+    "bes": "bin/bes.js"
+  },
+  "devDependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "fs-extra": "^0.30.0",
+    "lodash": "^4.13.1",
+    "log-symbols": "^1.0.2",
+    "path": "^0.12.7",
+    "phantomjs": "1.9.19"
+  }
+}
