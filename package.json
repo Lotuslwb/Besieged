@@ -1,8 +1,8 @@
 {
   "name": "wb-besieged",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "description": "前端性能订制 检测",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
